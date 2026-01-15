@@ -9,3 +9,4 @@ C:\Users\ylgne\CalculadoraTDD\Calculadora.Core\obj\Debug\net10.0\Calculadora.Cor
 C:\Users\ylgne\CalculadoraTDD\Calculadora.Core\obj\Debug\net10.0\refint\Calculadora.Core.dll
 C:\Users\ylgne\CalculadoraTDD\Calculadora.Core\obj\Debug\net10.0\Calculadora.Core.pdb
 C:\Users\ylgne\CalculadoraTDD\Calculadora.Core\obj\Debug\net10.0\ref\Calculadora.Core.dll
+C:\Users\ylgne\CalculadoraTDD\Calculadora.Core\obj\Debug\net10.0\Calculadora.Core.sourcelink.json

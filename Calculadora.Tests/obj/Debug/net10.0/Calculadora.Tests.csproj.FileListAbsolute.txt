@@ -98,3 +98,4 @@ C:\Users\ylgne\CalculadoraTDD\Calculadora.Tests\obj\Debug\net10.0\refint\Calcula
 C:\Users\ylgne\CalculadoraTDD\Calculadora.Tests\obj\Debug\net10.0\Calculadora.Tests.pdb
 C:\Users\ylgne\CalculadoraTDD\Calculadora.Tests\obj\Debug\net10.0\Calculadora.Tests.genruntimeconfig.cache
 C:\Users\ylgne\CalculadoraTDD\Calculadora.Tests\obj\Debug\net10.0\ref\Calculadora.Tests.dll
+C:\Users\ylgne\CalculadoraTDD\Calculadora.Tests\obj\Debug\net10.0\Calculadora.Tests.sourcelink.json

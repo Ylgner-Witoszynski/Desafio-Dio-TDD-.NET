@@ -1,42 +1,43 @@
 # CalculadoraTDD
 
-Projeto simples de **Calculadora em .NET 10** utilizando **TDD (Test Driven Development)**  
-com **xUnit** para testes unitários.
+Projeto simples de uma Calculadora em .NET 10, desenvolvido com a metodologia TDD (Test-Driven Development). Os testes unitários foram implementados utilizando o framework xUnit.
 
-## Tecnologias
+## ✨ Funcionalidades
 
-- .NET 10
-- C#
-- xUnit
-- TDD
+A calculadora suporta as seguintes operações básicas:
 
-## Estrutura do projeto
+- [ ] Adição
+- [ ] Subtração
+- [ ] Multiplicação
+- [ ] Divisão
 
-CalculadoraTDD
-├── Calculadora.Core
-├── Calculadora.Tests
-└── CalculadoraTDD.sln
+*(Nota: As funcionalidades ainda estão em desenvolvimento.)*
 
-## Como rodar os testes
+## 🛠️ Tecnologias
 
-````bash
+- **.NET 10**
+- **C#**
+- **xUnit** para testes unitários
+
+## 📂 Estrutura do Projeto
+
+O projeto está organizado da seguinte forma:
+
+```
+CalculadoraTDD/
+├── Calculadora.Core/      # Contém a lógica de negócio da calculadora
+├── Calculadora.Tests/     # Contém os testes unitários
+└── CalculadoraTDD.slnx    # Solução do projeto
+```
+
+## 🚀 Como Rodar os Testes
+
+Para executar os testes unitários do projeto, utilize o seguinte comando na raiz do diretório:
+
+```bash
 dotnet test
+```
 
-Objetivo
+## 🎯 Objetivo
 
-Projeto criado para estudo e prática de TDD e testes unitários em .NET.
-
-
-Salve e feche.
-
----
-
-## 6️⃣ Adicionar arquivos ao Git
-
-```powershell
-git status
-
-Depois:
-
-git add .
-````
+Este projeto foi criado como uma ferramenta de estudo e prática para a aplicação de TDD e testes unitários no ecossistema .NET.
