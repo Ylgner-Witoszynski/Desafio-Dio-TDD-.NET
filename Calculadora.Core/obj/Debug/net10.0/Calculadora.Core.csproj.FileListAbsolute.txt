@@ -1,0 +1,11 @@
+C:\Users\ylgne\CalculadoraTDD\Calculadora.Core\bin\Debug\net10.0\Calculadora.Core.deps.json
+C:\Users\ylgne\CalculadoraTDD\Calculadora.Core\bin\Debug\net10.0\Calculadora.Core.dll
+C:\Users\ylgne\CalculadoraTDD\Calculadora.Core\bin\Debug\net10.0\Calculadora.Core.pdb
+C:\Users\ylgne\CalculadoraTDD\Calculadora.Core\obj\Debug\net10.0\Calculadora.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ylgne\CalculadoraTDD\Calculadora.Core\obj\Debug\net10.0\Calculadora.Core.AssemblyInfoInputs.cache
+C:\Users\ylgne\CalculadoraTDD\Calculadora.Core\obj\Debug\net10.0\Calculadora.Core.AssemblyInfo.cs
+C:\Users\ylgne\CalculadoraTDD\Calculadora.Core\obj\Debug\net10.0\Calculadora.Core.csproj.CoreCompileInputs.cache
+C:\Users\ylgne\CalculadoraTDD\Calculadora.Core\obj\Debug\net10.0\Calculadora.Core.dll
+C:\Users\ylgne\CalculadoraTDD\Calculadora.Core\obj\Debug\net10.0\refint\Calculadora.Core.dll
+C:\Users\ylgne\CalculadoraTDD\Calculadora.Core\obj\Debug\net10.0\Calculadora.Core.pdb
+C:\Users\ylgne\CalculadoraTDD\Calculadora.Core\obj\Debug\net10.0\ref\Calculadora.Core.dll
